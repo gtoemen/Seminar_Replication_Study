@@ -1,5 +1,5 @@
 ## Experiment Replication of Process Prediction Models using Attention Mechanisms
-This directory contains code used to replicate the following study:
+This repository contains code used to replicate the following study:
 
 `Building Interpretable Models for Business Process Prediction using Shared and Specialised Attention Mechanisms`, 
 by Bemali Wickramanayakea, Zhipeng Hea, Chun Ouyanga, Catarina Moreiraa, Yue Xua, and Renuka Sindhgatta
@@ -15,6 +15,8 @@ by Bemali Wickramanayakea, Zhipeng Hea, Chun Ouyanga, Catarina Moreiraa, Yue Xua
     publisher={Elsevier}
   }
 )
+
+Download the zip-file to access the notebooks and data sets that were used to replicate the results.
 
 The following prerequisites are to be downloaded in order to run the notebooks:
 
