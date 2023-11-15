@@ -16,7 +16,7 @@ by Bemali Wickramanayakea, Zhipeng Hea, Chun Ouyanga, Catarina Moreiraa, Yue Xua
   }
 )
 
-Download the zip-file to access the notebooks and data sets that were used to replicate the results.
+Download the `ReplicationStudyGijsToemen` zip-file to access the notebooks and data sets that were used to replicate the results.
 
 The following prerequisites are to be downloaded in order to run the notebooks:
 
@@ -49,3 +49,5 @@ The performance measures obtained for component (iii) of the experiments (see re
 
 Note that the final parameter of the (shared_)explain_local function denotes the particular case for which a prediction was made. Modifying this parameter results in different extractions for different predictions.
 
+### Accuracy comparison to benchmark studies
+The accuracies obtained for the study of Pasquadibisceglie et al. can be replicated using the notebooks in the zip-file `Pasquadibisceglie_et_al_benchmark_replication`. This zip-file contains a README itself which explains how to reproduce the results presented in Table 7 of the replication study.
